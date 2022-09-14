@@ -1,2 +1,0 @@
-ID: WEED2 - Location: (-734.0, 12.4, -330.2)
-ID: WEED1 - Location: (-748.9, 9.5, -330.2)
